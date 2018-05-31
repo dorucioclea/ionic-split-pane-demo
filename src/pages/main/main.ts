@@ -1,4 +1,3 @@
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { Component, ViewChild } from '@angular/core';
 import { Platform, Nav, MenuController } from 'ionic-angular';
 import { StatusBar } from '@ionic-native/status-bar';
